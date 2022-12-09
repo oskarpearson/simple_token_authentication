@@ -10,6 +10,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Removed Rails 5 support, since it's been end-of-life since 25 Aug 2019
 - Removed Rails 4 support, since it's been end-of-life since 27 Apr 2017
 - Removed Rails 3 support, since it's been end-of-life since 30 Jun 2016
+- Removed Ruby 2.6 support since it's been end-of-life since 31 Mar 2022
 - Removed Ruby 1.9 support since it's been end-of-life since 23 Feb 2015
 
 ## [1.17.0] - 2019-09-21
